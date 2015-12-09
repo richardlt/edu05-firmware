@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+*.err
+*.map
+edu05-firmware.X/build/
+edu05-firmware.X/debug/
+edu05-firmware.X/dist/
+edu05-firmware.X/nbproject/Makefile-*
+edu05-firmware.X/nbproject/private/
+edu05-firmware.X/nbproject/Package-*.bash
